@@ -1,4 +1,4 @@
-##Air Drawing Pictionary 🎨
+## Air Drawing Pictionary 🎨
 
 This is a simple air-drawing based Pictionary game where you draw in the air using your hand and the system tries to recognize what you’re drawing. It’s basically a mix of gesture tracking and a guessing game.
 
@@ -6,7 +6,7 @@ I built this to experiment with computer vision and make something interactive i
 
 ---
 
-##How it works 🧠
+## How it works 🧠
 
 - The camera tracks your hand movements  
 - You draw letters or shapes in the air  
@@ -15,7 +15,7 @@ I built this to experiment with computer vision and make something interactive i
 
 ---
 
-##Rules / How to play 🎮
+## Rules / How to play 🎮
 
 1. Make sure your camera is on and clearly visible  
 2. Start the program and wait for it to detect your hand  
@@ -25,13 +25,13 @@ I built this to experiment with computer vision and make something interactive i
 6. Each round, draw the given word (or choose one yourself)  
 7. The system will try to guess what you drew  
 
-##Optional:
+## Optional:
 - One person draws, others guess  
 - You can add a timer for each round ⏱️  
 
 ---
 
-##Tech Stack 🛠️
+## Tech Stack 🛠️
 
 - Python  
 - OpenCV  
@@ -51,7 +51,7 @@ I built this to experiment with computer vision and make something interactive i
 4. run the program
      python app.py
 
-##Notes ⚠️
+## Notes ⚠️
 Works best in good lighting
 Plain background helps with detection
 Performance depends on camera quality
